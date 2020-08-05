@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/heyphilllie/heyphilllie/master/heyphilly_headerimage-github.png" alt="banner that says HEy Philly - front end developer & ui designer">
+<img src="https://raw.githubusercontent.com/heyphilllie/heyphilllie/master/heyphilly_headerimage-github_BLACK.png" alt="banner that says HEy Philly - front end developer & ui designer">
 
 
 # Hi there 👋
