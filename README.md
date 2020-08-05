@@ -1,4 +1,7 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/heyphilllie/heyphilllie/master/heyphilly_headerimage-github.png" alt="banner that says HEy Philly - front end developer & ui designer">
+
+
+# Hi there 👋
 
 <!--
 **heyphilllie/heyphilllie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
