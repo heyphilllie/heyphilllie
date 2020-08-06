@@ -3,9 +3,11 @@
 
 # Hi there! I'm Philly, front end developer and UI designer helping brands build modern, resilient, and inclusive user interfaces.
 
-I have a Bachelor’s Degree in Social Science and doing a part-time Master's Degree ind Computer Sciences; but everything I know of and on the Web today is self-taught. With Design, development and everything web being what I love to do the most (and what I'm good at) I'm specializing in responsive web design, modern CSS, progressive enhancement, and accessibility.
+I have a Bachelor’s Degree in Social Science and currently doing a part-time Master's Degree in Computer Sciences. I am merging the best of both worlds to build interactive web applications - with a user- / human-centered apporach. 
 
-I am currently working with the e-commerce team at the german market leader for baby articles.
+With design, development and everything web being what I love to do the most (and what I'm good at) I'm specializing in responsive web development, modern CSS, progressive enhancement, and accessibility.
+
+I am currently working with the e-commerce team at the german market leader for baby articles. 
 
 <!--
 **heyphilllie/heyphilllie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
