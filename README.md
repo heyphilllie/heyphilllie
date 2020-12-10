@@ -1,13 +1,12 @@
 <img src="https://raw.githubusercontent.com/heyphilllie/heyphilllie/master/heyphilly_headerimage-github_BLACK.png" alt="banner that says HEy Philly - front end developer & ui designer">
 
 
-# Hi there! I'm Philly, front end developer and UI designer helping brands build modern, resilient, and inclusive user interfaces.
+# Hi there! I'm Philly, front end developer and UI designer focusing on building modern, resilient, and inclusive user interfaces.
 
-I have a Bachelor’s Degree in Social Science and currently doing a part-time Master's Degree in Computer Sciences. I am merging the best of both worlds to build interactive web applications - with a user- / human-centered apporach. 
+I have a Bachelor’s Degree in Social Science and currently doing a part-time Master's Degree in Computer Sciences. I am merging the best of both worlds to build interactive web applications with a user- / human-centered approach. 
 
-With design, development and everything web being what I love to do the most (and what I'm good at) I'm specializing in responsive web development, modern CSS, progressive enhancement, and accessibility.
+Currently I'm working with the e-commerce team at Germany's market leader for baby articles to redesign the online shop. But with design, development and everything web being what I love to do the most (and what I'm good at) I'm also available for project work. So hit me up if you need help with UX design, UI design and front end development. ✌️
 
-I am currently working with the e-commerce team at the german market leader for baby articles. 
 
 <!--
 **heyphilllie/heyphilllie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
